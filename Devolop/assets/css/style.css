@@ -9,7 +9,7 @@ body {
 }
 
 .header {
-    padding: 20px;
+    padding: 40px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     background-color: #2a607c;
     color: #ffffff;
@@ -47,13 +47,13 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 25px;
 }
 
 .hero {
-    height:400px;
+    height:800px;
     width: 100%;
-    margin-bottom: 25px;
+    margin-bottom: 05px;
     background-image: url("../images/digital-marketing-meeting.jpg");
     background-size: cover;
     background-position: center;
